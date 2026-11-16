@@ -1,0 +1,2 @@
+# SENTINEL-X-Autonomous-Operational-Intelligence-Risk-Detection-Platform-AI-ML-Automation
+Developed an AI-assisted operational intelligence platform designed to transform business documents and operational records into actionable, explainable risk insights. Integrated data preprocessing, document classification, NLP-based information extraction, deadline monitoring, anomaly detection using Isolation 
